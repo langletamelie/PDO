@@ -1,0 +1,8 @@
+#Si le module est chargé alors l'exécution du contenu est permise
+<IfModule mod_rewrite.c>
+#Active le module de réécriture d'URL
+RewriteEngine On
+#Afin de rendre les url plus " propre " pour l'utilisateur, on réécrit la plupart des pages du site afin de se situer plus simplement
+RewriteRule ^accueil$ index.html 
+
+</IfModule>

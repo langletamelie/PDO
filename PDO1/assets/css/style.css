@@ -1,0 +1,37 @@
+td, tr,th{
+    border-collapse:collapse;
+    border:1px solid black;
+}
+table{
+    text-align:center;
+    border-radius:30px;
+}
+.firstTest, .secondTest{
+    background-color:white;
+    border-radius:30px;
+    margin-top:15px;
+    margin-bottom:15px;
+    padding:15px;
+}
+.container-fluid, body{
+    background-image: url(https://images.wallpaperscraft.com/image/lines_dark_uneven_background_69481_1920x1080.jpg);
+}
+a {
+    margin-top: 450px;
+    margin-left: 5px;
+    text-align: center;
+}
+#client{
+    background-color: background;
+    border-radius:30px;
+    margin-left:50px;
+    margin-bottom:15px;
+    padding:15px;
+}
+.title{
+    text-align:center;
+    color : white;
+}
+#home{
+    margin-top: 50px;
+}

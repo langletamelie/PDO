@@ -1,0 +1,78 @@
+
+body{
+    background-image: url(https://images.alphacoders.com/658/thumb-1920-658238.jpg);
+}
+.nav-link {
+    text-align: center;
+    margin-left: 50px;
+}
+#rdvView {
+    background-image: url(https://images3.alphacoders.com/695/thumb-1920-695586.jpg);
+}
+#addPatientView {
+    background-image: url(https://images5.alphacoders.com/735/thumb-1920-735243.jpg);
+}
+#addAppointmentView {
+    background-image: url(https://images7.alphacoders.com/697/thumb-1920-697207.jpg);
+}
+#patientListView {
+    background-image: url(https://images2.alphacoders.com/406/thumb-1920-40652.jpg);
+}
+#rdvListView {
+    background-image: url(https://images7.alphacoders.com/795/thumb-1920-795887.jpg);
+}
+#patientProfilView {
+    background-image: url(https://images5.alphacoders.com/660/thumb-1920-660482.jpg);
+}
+.form-group{
+    text-align: center;
+    font-size: 22px;
+}
+.form-control, #submit{
+    margin-top: 30px;
+}
+#formBox, #listPatient, #profilPatient, #rdvBox{
+    background-color: rgba(198,223,236,0.6);
+    border-radius:30px;
+    margin-top: 20px;
+    border:2px solid black;    
+    text-align: center;
+}
+label, #submit{
+    color : black;
+}
+#ok{
+    font-size: 40px;
+    margin-top: 350px;
+}
+td, tr,th{
+    border-collapse:collapse;
+    border:1px solid black;
+}
+table{
+    text-align:center;
+    border-radius:30px;
+}
+#patientButton{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+button{
+    background-color: #315485;
+    color : black;
+}
+#profilPatient, #rdvBox{
+    margin-left: 50px;
+    margin-top: 150px;
+}
+#formBox, #listPatient{
+    height: 830px;
+    padding-top: 10px;
+}
+#messageOk{
+    font-size : 25px;
+}
+#rdvBox{
+    height: 500px;
+    padding-top: 70px;
+}
